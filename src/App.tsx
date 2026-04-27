@@ -309,7 +309,7 @@ export default function App() {
   // TOP
   if (screen==="top") return (
     <div style={{padding:24,maxWidth:520,margin:"0 auto",textAlign:"center"}}>
-      <div style={{fontSize:22,fontWeight:500,marginBottom:6}}>採用適性検査</div>
+      <div style={{fontSize:22,fontWeight:500,marginBottom:6}}>SAITEKIGROUP適性検査</div>
       <div style={{fontSize:13,color:"var(--color-text-secondary)",marginBottom:4}}>新電力 新規営業（テレアポ）職</div>
       <div style={{fontSize:12,color:"var(--color-text-secondary)",marginBottom:24}}>全{total}問 ／ 所要時間 約10〜12分</div>
       <div style={{background:"var(--color-background-secondary)",borderRadius:12,padding:16,marginBottom:24,textAlign:"left"}}>
